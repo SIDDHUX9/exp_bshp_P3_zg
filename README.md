@@ -220,3 +220,5 @@ npm run test --workspace=contracts   # Hardhat contract test suite
 ## 📄 License
 
 MIT (or your license of choice — update this section accordingly).
+
+d3- added vercel config and fixed errors
