@@ -222,3 +222,4 @@ npm run test --workspace=contracts   # Hardhat contract test suite
 MIT (or your license of choice — update this section accordingly).
 
 d3- added vercel config and fixed errors
+d4- mainnet implementation complete (i am just so fkin tired and all this seems useless at this point)
