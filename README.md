@@ -225,3 +225,4 @@ d3- added vercel config and fixed errors
 d4- mainnet implementation complete (i am just so fkin tired and all this seems useless at this point)
 d7- stuck on testnet mn is so slow it's taking hors to proceed through one deployment
 d8- docker setup and transaction test completed
+d9- project completed for this wave, will be continued later
